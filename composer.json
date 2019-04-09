@@ -22,7 +22,7 @@
         "friendsofsymfony/http-cache-bundle": "^2.6",
         "guzzlehttp/psr7": "^1.5",
         "php-http/guzzle6-adapter": "^1.1",
-        "kunstmaan/cms-pack": "*@dev",
+        "kunstmaan/cms-pack": "*",
         "kunstmaan/config-bundle": "^5.2",
         "kunstmaan/dashboard-bundle": "^5.2",
         "kunstmaan/menu-bundle": "^5.2",
