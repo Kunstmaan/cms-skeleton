@@ -611,41 +611,45 @@
         },
         {
             "name": "doctrine/doctrine-bundle",
-            "version": "1.10.2",
+            "version": "1.11.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/DoctrineBundle.git",
-                "reference": "1f99e6645030542079c57d4680601a4a8778a1bd"
+                "reference": "09a38417339dc93849d051b914aae3947eb231a7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/DoctrineBundle/zipball/1f99e6645030542079c57d4680601a4a8778a1bd",
-                "reference": "1f99e6645030542079c57d4680601a4a8778a1bd",
+                "url": "https://api.github.com/repos/doctrine/DoctrineBundle/zipball/09a38417339dc93849d051b914aae3947eb231a7",
+                "reference": "09a38417339dc93849d051b914aae3947eb231a7",
                 "shasum": ""
             },
             "require": {
                 "doctrine/dbal": "^2.5.12",
                 "doctrine/doctrine-cache-bundle": "~1.2",
                 "jdorn/sql-formatter": "^1.2.16",
-                "php": "^5.5.9|^7.0",
-                "symfony/console": "~2.7|~3.0|~4.0",
-                "symfony/dependency-injection": "~2.7|~3.0|~4.0",
-                "symfony/doctrine-bridge": "~2.7|~3.0|~4.0",
-                "symfony/framework-bundle": "^2.7.22|~3.0|~4.0"
+                "php": "^7.1",
+                "symfony/config": "^3.4|^4.1",
+                "symfony/console": "^3.4|^4.1",
+                "symfony/dependency-injection": "^3.4|^4.1",
+                "symfony/doctrine-bridge": "^3.4|^4.1",
+                "symfony/framework-bundle": "^3.4|^4.1"
             },
             "conflict": {
-                "symfony/http-foundation": "<2.6"
+                "doctrine/orm": "<2.6",
+                "twig/twig": "<1.34|>=2.0,<2.4"
             },
             "require-dev": {
-                "doctrine/orm": "~2.4",
+                "doctrine/coding-standard": "^6.0",
+                "doctrine/orm": "^2.6",
                 "php-coveralls/php-coveralls": "^2.1",
-                "phpunit/phpunit": "^4.8.36|^5.7|^6.4",
-                "symfony/phpunit-bridge": "~2.7|~3.0|~4.0",
-                "symfony/property-info": "~2.8|~3.0|~4.0",
-                "symfony/validator": "~2.7|~3.0|~4.0",
-                "symfony/web-profiler-bundle": "~2.7|~3.0|~4.0",
-                "symfony/yaml": "~2.7|~3.0|~4.0",
-                "twig/twig": "~1.26|~2.0"
+                "phpunit/phpunit": "7.0",
+                "symfony/cache": "^3.4|^4.1",
+                "symfony/phpunit-bridge": "^4.2",
+                "symfony/property-info": "^3.4|^4.1",
+                "symfony/validator": "^3.4|^4.1",
+                "symfony/web-profiler-bundle": "^3.4|^4.1",
+                "symfony/yaml": "^3.4|^4.1",
+                "twig/twig": "^1.34|^2.4"
             },
             "suggest": {
                 "doctrine/orm": "The Doctrine ORM integration is optional in the bundle.",
@@ -654,7 +658,7 @@
             "type": "symfony-bundle",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.9.x-dev"
+                    "dev-master": "1.11.x-dev"
                 }
             },
             "autoload": {
@@ -692,7 +696,7 @@
                 "orm",
                 "persistence"
             ],
-            "time": "2019-02-06T13:18:04+00:00"
+            "time": "2019-05-13T14:30:38+00:00"
         },
         {
             "name": "doctrine/doctrine-cache-bundle",
@@ -1644,16 +1648,16 @@
         },
         {
             "name": "friendsofsymfony/http-cache",
-            "version": "2.6.0",
+            "version": "2.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/FriendsOfSymfony/FOSHttpCache.git",
-                "reference": "8676d8271224b6867a1a9a166ff1135cdfd6a407"
+                "reference": "eb1a2c995bcbdb965ad7f0dc2ca5e93885b51ce4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSHttpCache/zipball/8676d8271224b6867a1a9a166ff1135cdfd6a407",
-                "reference": "8676d8271224b6867a1a9a166ff1135cdfd6a407",
+                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSHttpCache/zipball/eb1a2c995bcbdb965ad7f0dc2ca5e93885b51ce4",
+                "reference": "eb1a2c995bcbdb965ad7f0dc2ca5e93885b51ce4",
                 "shasum": ""
             },
             "require": {
@@ -1721,7 +1725,7 @@
                 "purge",
                 "varnish"
             ],
-            "time": "2019-04-29T14:05:35+00:00"
+            "time": "2019-05-14T12:36:21+00:00"
         },
         {
             "name": "friendsofsymfony/http-cache-bundle",
@@ -2639,16 +2643,16 @@
         },
         {
             "name": "kunstmaan/admin-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanAdminBundle.git",
-                "reference": "581ab5c6e32f3e51982c6bb5857843fbc592344a"
+                "reference": "a0e6c7147b516e8455e9832dd50aaab7c2947a32"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanAdminBundle/zipball/581ab5c6e32f3e51982c6bb5857843fbc592344a",
-                "reference": "581ab5c6e32f3e51982c6bb5857843fbc592344a",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanAdminBundle/zipball/a0e6c7147b516e8455e9832dd50aaab7c2947a32",
+                "reference": "a0e6c7147b516e8455e9832dd50aaab7c2947a32",
                 "shasum": ""
             },
             "require": {
@@ -2737,11 +2741,11 @@
                 "cms",
                 "kunstmaan"
             ],
-            "time": "2019-05-10T12:10:44+00:00"
+            "time": "2019-05-17T11:14:56+00:00"
         },
         {
             "name": "kunstmaan/adminlist-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanAdminListBundle.git",
@@ -2836,7 +2840,7 @@
         },
         {
             "name": "kunstmaan/config-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanConfigBundle.git",
@@ -2892,16 +2896,16 @@
         },
         {
             "name": "kunstmaan/dashboard-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanDashboardBundle.git",
-                "reference": "38b2cb17d1d1817b6d5402260b97cb7d21fa1144"
+                "reference": "7b913e49d23f730991609f22dea5419eb3a7faa2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanDashboardBundle/zipball/38b2cb17d1d1817b6d5402260b97cb7d21fa1144",
-                "reference": "38b2cb17d1d1817b6d5402260b97cb7d21fa1144",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanDashboardBundle/zipball/7b913e49d23f730991609f22dea5419eb3a7faa2",
+                "reference": "7b913e49d23f730991609f22dea5419eb3a7faa2",
                 "shasum": ""
             },
             "require": {
@@ -2946,20 +2950,20 @@
                 "google analytics",
                 "kunstmaan"
             ],
-            "time": "2019-04-10T10:11:45+00:00"
+            "time": "2019-05-17T11:28:54+00:00"
         },
         {
             "name": "kunstmaan/form-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanFormBundle.git",
-                "reference": "715adc7dcca6bdc494002483743ccce1a0a03dd7"
+                "reference": "896b5b5d56b59387335c7ec5bcc95d0b0a530586"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanFormBundle/zipball/715adc7dcca6bdc494002483743ccce1a0a03dd7",
-                "reference": "715adc7dcca6bdc494002483743ccce1a0a03dd7",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanFormBundle/zipball/896b5b5d56b59387335c7ec5bcc95d0b0a530586",
+                "reference": "896b5b5d56b59387335c7ec5bcc95d0b0a530586",
                 "shasum": ""
             },
             "require": {
@@ -2969,6 +2973,7 @@
                 "kunstmaan/pagepart-bundle": "~5.2",
                 "php": "^7.1",
                 "stof/doctrine-extensions-bundle": "~1.1",
+                "symfony/css-selector": "^3.4|^4.0",
                 "symfony/swiftmailer-bundle": "^2.3|^3.0"
             },
             "require-dev": {
@@ -3006,7 +3011,7 @@
                 "cms",
                 "kunstmaan"
             ],
-            "time": "2019-05-10T12:10:44+00:00"
+            "time": "2019-05-17T11:06:11+00:00"
         },
         {
             "name": "kunstmaan/google-api-custom",
@@ -3048,7 +3053,7 @@
         },
         {
             "name": "kunstmaan/media-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanMediaBundle.git",
@@ -3111,7 +3116,7 @@
         },
         {
             "name": "kunstmaan/media-pagepart-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanMediaPagePartBundle.git",
@@ -3162,7 +3167,7 @@
         },
         {
             "name": "kunstmaan/menu-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanMenuBundle.git",
@@ -3334,7 +3339,7 @@
         },
         {
             "name": "kunstmaan/pagepart-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanPagePartBundle.git",
@@ -3391,16 +3396,16 @@
         },
         {
             "name": "kunstmaan/redirect-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanRedirectBundle.git",
-                "reference": "bceb5291fd631acaea45241623f77a6dd218548b"
+                "reference": "3f551a83ac02c0a21529c937dc23e9f5fe2e7c92"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanRedirectBundle/zipball/bceb5291fd631acaea45241623f77a6dd218548b",
-                "reference": "bceb5291fd631acaea45241623f77a6dd218548b",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanRedirectBundle/zipball/3f551a83ac02c0a21529c937dc23e9f5fe2e7c92",
+                "reference": "3f551a83ac02c0a21529c937dc23e9f5fe2e7c92",
                 "shasum": ""
             },
             "require": {
@@ -3444,11 +3449,11 @@
                 "kunstmaan",
                 "redirect"
             ],
-            "time": "2019-04-10T10:11:45+00:00"
+            "time": "2019-05-17T11:17:22+00:00"
         },
         {
             "name": "kunstmaan/search-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanSearchBundle.git",
@@ -3512,7 +3517,7 @@
         },
         {
             "name": "kunstmaan/seo-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanSeoBundle.git",
@@ -3572,7 +3577,7 @@
         },
         {
             "name": "kunstmaan/sitemap-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanSitemapBundle.git",
@@ -3629,16 +3634,16 @@
         },
         {
             "name": "kunstmaan/translator-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanTranslatorBundle.git",
-                "reference": "b8458254ff3582bea976e00822bca62699835de9"
+                "reference": "a17d2ef03fbd9c27597beacdc38e6c5834a42734"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanTranslatorBundle/zipball/b8458254ff3582bea976e00822bca62699835de9",
-                "reference": "b8458254ff3582bea976e00822bca62699835de9",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanTranslatorBundle/zipball/a17d2ef03fbd9c27597beacdc38e6c5834a42734",
+                "reference": "a17d2ef03fbd9c27597beacdc38e6c5834a42734",
                 "shasum": ""
             },
             "require": {
@@ -3683,20 +3688,20 @@
                 "translations",
                 "translator"
             ],
-            "time": "2019-05-08T08:55:30+00:00"
+            "time": "2019-05-17T11:14:56+00:00"
         },
         {
             "name": "kunstmaan/user-management-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanUserManagementBundle.git",
-                "reference": "c2dbd0f005ae47d1c9024cfd819953b3007b093c"
+                "reference": "182896a67c82bbd5d54afc632de891a81c531a1b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanUserManagementBundle/zipball/c2dbd0f005ae47d1c9024cfd819953b3007b093c",
-                "reference": "c2dbd0f005ae47d1c9024cfd819953b3007b093c",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanUserManagementBundle/zipball/182896a67c82bbd5d54afc632de891a81c531a1b",
+                "reference": "182896a67c82bbd5d54afc632de891a81c531a1b",
                 "shasum": ""
             },
             "require": {
@@ -3741,11 +3746,11 @@
                 "role",
                 "user"
             ],
-            "time": "2019-04-10T10:11:45+00:00"
+            "time": "2019-05-17T11:14:56+00:00"
         },
         {
             "name": "kunstmaan/utilities-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanUtilitiesBundle.git",
@@ -5993,6 +5998,59 @@
                 "standards"
             ],
             "time": "2019-04-27T14:29:50+00:00"
+        },
+        {
+            "name": "symfony/css-selector",
+            "version": "v4.2.8",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/css-selector.git",
+                "reference": "48eddf66950fa57996e1be4a55916d65c10c604a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/css-selector/zipball/48eddf66950fa57996e1be4a55916d65c10c604a",
+                "reference": "48eddf66950fa57996e1be4a55916d65c10c604a",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.1.3"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "4.2-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Component\\CssSelector\\": ""
+                },
+                "exclude-from-classmap": [
+                    "/Tests/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jean-François Simon",
+                    "email": "jeanfrancois.simon@sensiolabs.com"
+                },
+                {
+                    "name": "Fabien Potencier",
+                    "email": "fabien@symfony.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony CssSelector Component",
+            "homepage": "https://symfony.com",
+            "time": "2019-01-16T20:31:39+00:00"
         },
         {
             "name": "symfony/debug",
@@ -8980,16 +9038,16 @@
         },
         {
             "name": "twig/twig",
-            "version": "v2.9.0",
+            "version": "v2.10.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "82a1c055c8ed4c4705023bfd0405f3c74db6e3ae"
+                "reference": "5240e21982885b76629552d83b4ebb6d41ccde6b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/82a1c055c8ed4c4705023bfd0405f3c74db6e3ae",
-                "reference": "82a1c055c8ed4c4705023bfd0405f3c74db6e3ae",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/5240e21982885b76629552d83b4ebb6d41ccde6b",
+                "reference": "5240e21982885b76629552d83b4ebb6d41ccde6b",
                 "shasum": ""
             },
             "require": {
@@ -9005,7 +9063,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.9-dev"
+                    "dev-master": "2.10-dev"
                 }
             },
             "autoload": {
@@ -9043,7 +9101,7 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2019-04-28T06:57:38+00:00"
+            "time": "2019-05-14T12:03:52+00:00"
         },
         {
             "name": "webmozart/assert",
@@ -9542,7 +9600,7 @@
         },
         {
             "name": "kunstmaan/article-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanArticleBundle.git",
@@ -9599,7 +9657,7 @@
         },
         {
             "name": "kunstmaan/behat-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanBehatBundle.git",
@@ -9661,7 +9719,7 @@
         },
         {
             "name": "kunstmaan/fixtures-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanFixturesBundle.git",
@@ -9723,16 +9781,16 @@
         },
         {
             "name": "kunstmaan/generator-bundle",
-            "version": "5.3.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanGeneratorBundle.git",
-                "reference": "831baedc8c588663e067608d426f3bda900e0ef4"
+                "reference": "0db3df808004c3b7edd4c1f18cf32e5ca03dbf5c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanGeneratorBundle/zipball/831baedc8c588663e067608d426f3bda900e0ef4",
-                "reference": "831baedc8c588663e067608d426f3bda900e0ef4",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanGeneratorBundle/zipball/0db3df808004c3b7edd4c1f18cf32e5ca03dbf5c",
+                "reference": "0db3df808004c3b7edd4c1f18cf32e5ca03dbf5c",
                 "shasum": ""
             },
             "require": {
@@ -9781,7 +9839,7 @@
                 "generator",
                 "kunstmaan"
             ],
-            "time": "2019-05-10T12:10:44+00:00"
+            "time": "2019-05-17T11:23:34+00:00"
         },
         {
             "name": "kunstmaan/sensio-generator-bundle",
@@ -9947,59 +10005,6 @@
             "description": "Symfony BrowserKit Component",
             "homepage": "https://symfony.com",
             "time": "2019-04-07T09:56:43+00:00"
-        },
-        {
-            "name": "symfony/css-selector",
-            "version": "v4.2.8",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/symfony/css-selector.git",
-                "reference": "48eddf66950fa57996e1be4a55916d65c10c604a"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/symfony/css-selector/zipball/48eddf66950fa57996e1be4a55916d65c10c604a",
-                "reference": "48eddf66950fa57996e1be4a55916d65c10c604a",
-                "shasum": ""
-            },
-            "require": {
-                "php": "^7.1.3"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "4.2-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Symfony\\Component\\CssSelector\\": ""
-                },
-                "exclude-from-classmap": [
-                    "/Tests/"
-                ]
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Jean-François Simon",
-                    "email": "jeanfrancois.simon@sensiolabs.com"
-                },
-                {
-                    "name": "Fabien Potencier",
-                    "email": "fabien@symfony.com"
-                },
-                {
-                    "name": "Symfony Community",
-                    "homepage": "https://symfony.com/contributors"
-                }
-            ],
-            "description": "Symfony CssSelector Component",
-            "homepage": "https://symfony.com",
-            "time": "2019-01-16T20:31:39+00:00"
         },
         {
             "name": "symfony/debug-bundle",
