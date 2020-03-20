@@ -2703,16 +2703,16 @@
         },
         {
             "name": "kunstmaan/admin-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanAdminBundle.git",
-                "reference": "9cd43297933d2793486ffc611c826d6ea9a3cc2a"
+                "reference": "9a0ae845c09fccb2d5f1ad48b17b89ae8b06d557"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanAdminBundle/zipball/9cd43297933d2793486ffc611c826d6ea9a3cc2a",
-                "reference": "9cd43297933d2793486ffc611c826d6ea9a3cc2a",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanAdminBundle/zipball/9a0ae845c09fccb2d5f1ad48b17b89ae8b06d557",
+                "reference": "9a0ae845c09fccb2d5f1ad48b17b89ae8b06d557",
                 "shasum": ""
             },
             "require": {
@@ -2801,20 +2801,20 @@
                 "cms",
                 "kunstmaan"
             ],
-            "time": "2020-03-18T08:27:44+00:00"
+            "time": "2020-03-19T14:09:50+00:00"
         },
         {
             "name": "kunstmaan/adminlist-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanAdminListBundle.git",
-                "reference": "6a41a527a76abad194308fa30d8a4274539fc64d"
+                "reference": "d37f1acf8b8ceafea589eff4ed690ca69a92f178"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanAdminListBundle/zipball/6a41a527a76abad194308fa30d8a4274539fc64d",
-                "reference": "6a41a527a76abad194308fa30d8a4274539fc64d",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanAdminListBundle/zipball/d37f1acf8b8ceafea589eff4ed690ca69a92f178",
+                "reference": "d37f1acf8b8ceafea589eff4ed690ca69a92f178",
                 "shasum": ""
             },
             "require": {
@@ -2860,20 +2860,20 @@
                 "crud",
                 "kunstmaan"
             ],
-            "time": "2020-03-05T12:26:48+00:00"
+            "time": "2020-03-17T16:05:49+00:00"
         },
         {
             "name": "kunstmaan/article-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanArticleBundle.git",
-                "reference": "41cf865ae997c2dbaaa8497be9a07423f3f5e14f"
+                "reference": "871aa3fbbeee6173c517dde2380edda8ea893c0d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanArticleBundle/zipball/41cf865ae997c2dbaaa8497be9a07423f3f5e14f",
-                "reference": "41cf865ae997c2dbaaa8497be9a07423f3f5e14f",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanArticleBundle/zipball/871aa3fbbeee6173c517dde2380edda8ea893c0d",
+                "reference": "871aa3fbbeee6173c517dde2380edda8ea893c0d",
                 "shasum": ""
             },
             "require": {
@@ -2917,7 +2917,7 @@
                 "kunstmaan",
                 "news"
             ],
-            "time": "2020-01-23T15:22:22+00:00"
+            "time": "2020-03-17T16:05:49+00:00"
         },
         {
             "name": "kunstmaan/cms-pack",
@@ -2957,16 +2957,16 @@
         },
         {
             "name": "kunstmaan/config-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanConfigBundle.git",
-                "reference": "a70a3e1ba5487c03f4962c6c3c8f44d3dfc50345"
+                "reference": "7c509ef6a7fafed69b04e930251e6d48ea7aefc5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanConfigBundle/zipball/a70a3e1ba5487c03f4962c6c3c8f44d3dfc50345",
-                "reference": "a70a3e1ba5487c03f4962c6c3c8f44d3dfc50345",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanConfigBundle/zipball/7c509ef6a7fafed69b04e930251e6d48ea7aefc5",
+                "reference": "7c509ef6a7fafed69b04e930251e6d48ea7aefc5",
                 "shasum": ""
             },
             "require": {
@@ -3009,20 +3009,20 @@
                 "config",
                 "kunstmaan"
             ],
-            "time": "2020-03-05T12:26:48+00:00"
+            "time": "2020-03-17T16:05:49+00:00"
         },
         {
             "name": "kunstmaan/dashboard-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanDashboardBundle.git",
-                "reference": "95c365652323f5c76f683bcc72b3c0f03f3ceed7"
+                "reference": "64123e897cfd257ad92d413558a897f56c180f81"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanDashboardBundle/zipball/95c365652323f5c76f683bcc72b3c0f03f3ceed7",
-                "reference": "95c365652323f5c76f683bcc72b3c0f03f3ceed7",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanDashboardBundle/zipball/64123e897cfd257ad92d413558a897f56c180f81",
+                "reference": "64123e897cfd257ad92d413558a897f56c180f81",
                 "shasum": ""
             },
             "require": {
@@ -3067,20 +3067,20 @@
                 "google analytics",
                 "kunstmaan"
             ],
-            "time": "2020-03-18T08:27:44+00:00"
+            "time": "2020-03-18T08:28:19+00:00"
         },
         {
             "name": "kunstmaan/form-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanFormBundle.git",
-                "reference": "2f75565869b5618278a7340de67ec07e147d8085"
+                "reference": "cce0940b1284ba9f9035a83376fed6434a70ed3c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanFormBundle/zipball/2f75565869b5618278a7340de67ec07e147d8085",
-                "reference": "2f75565869b5618278a7340de67ec07e147d8085",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanFormBundle/zipball/cce0940b1284ba9f9035a83376fed6434a70ed3c",
+                "reference": "cce0940b1284ba9f9035a83376fed6434a70ed3c",
                 "shasum": ""
             },
             "require": {
@@ -3128,7 +3128,7 @@
                 "cms",
                 "kunstmaan"
             ],
-            "time": "2020-03-05T12:26:48+00:00"
+            "time": "2020-03-17T16:05:49+00:00"
         },
         {
             "name": "kunstmaan/google-api-custom",
@@ -3170,16 +3170,16 @@
         },
         {
             "name": "kunstmaan/media-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanMediaBundle.git",
-                "reference": "7451c0ff4bc8d8a3a65d61c983d959514827e8bf"
+                "reference": "76d213280329acb24c85e7b9317bc06b64f1ec88"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanMediaBundle/zipball/7451c0ff4bc8d8a3a65d61c983d959514827e8bf",
-                "reference": "7451c0ff4bc8d8a3a65d61c983d959514827e8bf",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanMediaBundle/zipball/76d213280329acb24c85e7b9317bc06b64f1ec88",
+                "reference": "76d213280329acb24c85e7b9317bc06b64f1ec88",
                 "shasum": ""
             },
             "require": {
@@ -3229,20 +3229,20 @@
                 "kunstmaan",
                 "media"
             ],
-            "time": "2020-03-18T08:27:44+00:00"
+            "time": "2020-03-18T08:28:19+00:00"
         },
         {
             "name": "kunstmaan/media-pagepart-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanMediaPagePartBundle.git",
-                "reference": "be2c1ff249b69827f540c386928151413026f884"
+                "reference": "07cb41d4c7f1c8b2e50dc95904ccb57122be6ed1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanMediaPagePartBundle/zipball/be2c1ff249b69827f540c386928151413026f884",
-                "reference": "be2c1ff249b69827f540c386928151413026f884",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanMediaPagePartBundle/zipball/07cb41d4c7f1c8b2e50dc95904ccb57122be6ed1",
+                "reference": "07cb41d4c7f1c8b2e50dc95904ccb57122be6ed1",
                 "shasum": ""
             },
             "require": {
@@ -3280,20 +3280,20 @@
             ],
             "description": "The KunstmaanMediaPagePartBundle is a pagepart that can be used on the KunstmaanPagePartBundle. It is a separate bundle to prevent a tight coupling between the KunstmaanPagePartBundle and the KunstmaanMediaBundle.",
             "homepage": "https://github.com/Kunstmaan/KunstmaanMediaPagePartBundle",
-            "time": "2020-03-05T12:26:48+00:00"
+            "time": "2020-03-17T16:05:49+00:00"
         },
         {
             "name": "kunstmaan/menu-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanMenuBundle.git",
-                "reference": "fc6c558f8f742346e703d6041861b6141d0e1a13"
+                "reference": "a02b0b55e7014b981c5d664608d8fe06f2c509db"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanMenuBundle/zipball/fc6c558f8f742346e703d6041861b6141d0e1a13",
-                "reference": "fc6c558f8f742346e703d6041861b6141d0e1a13",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanMenuBundle/zipball/a02b0b55e7014b981c5d664608d8fe06f2c509db",
+                "reference": "a02b0b55e7014b981c5d664608d8fe06f2c509db",
                 "shasum": ""
             },
             "require": {
@@ -3335,20 +3335,20 @@
                 "menu",
                 "navigation"
             ],
-            "time": "2020-01-23T15:22:22+00:00"
+            "time": "2020-03-17T16:05:49+00:00"
         },
         {
             "name": "kunstmaan/node-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanNodeBundle.git",
-                "reference": "bb3827ccf6dd1a3dbd4fc8a287fd473e6c7937ce"
+                "reference": "46cb6dc9343f012bee570ecdac94269947ad2d0e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanNodeBundle/zipball/bb3827ccf6dd1a3dbd4fc8a287fd473e6c7937ce",
-                "reference": "bb3827ccf6dd1a3dbd4fc8a287fd473e6c7937ce",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanNodeBundle/zipball/46cb6dc9343f012bee570ecdac94269947ad2d0e",
+                "reference": "46cb6dc9343f012bee570ecdac94269947ad2d0e",
                 "shasum": ""
             },
             "require": {
@@ -3395,20 +3395,20 @@
                 "kunstmaan",
                 "tree"
             ],
-            "time": "2020-03-18T08:27:44+00:00"
+            "time": "2020-03-18T15:55:38+00:00"
         },
         {
             "name": "kunstmaan/node-search-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanNodeSearchBundle.git",
-                "reference": "fb0df093f709b52e3e49b4365ef5fee34b0a8cad"
+                "reference": "fa6df52de01e44358feb235313ba22706a5e7ba9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanNodeSearchBundle/zipball/fb0df093f709b52e3e49b4365ef5fee34b0a8cad",
-                "reference": "fb0df093f709b52e3e49b4365ef5fee34b0a8cad",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanNodeSearchBundle/zipball/fa6df52de01e44358feb235313ba22706a5e7ba9",
+                "reference": "fa6df52de01e44358feb235313ba22706a5e7ba9",
                 "shasum": ""
             },
             "require": {
@@ -3453,20 +3453,20 @@
                 "node",
                 "search"
             ],
-            "time": "2020-03-18T08:27:44+00:00"
+            "time": "2020-03-18T08:28:19+00:00"
         },
         {
             "name": "kunstmaan/pagepart-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanPagePartBundle.git",
-                "reference": "ed8545f22d16b3780e8780b0b4cdd3e9f4bb7ee3"
+                "reference": "2a78cdb320145a4ba8e6b7e0230618a58dbd1d4f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanPagePartBundle/zipball/ed8545f22d16b3780e8780b0b4cdd3e9f4bb7ee3",
-                "reference": "ed8545f22d16b3780e8780b0b4cdd3e9f4bb7ee3",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanPagePartBundle/zipball/2a78cdb320145a4ba8e6b7e0230618a58dbd1d4f",
+                "reference": "2a78cdb320145a4ba8e6b7e0230618a58dbd1d4f",
                 "shasum": ""
             },
             "require": {
@@ -3510,20 +3510,20 @@
                 "kunstmaan",
                 "pageparts"
             ],
-            "time": "2020-03-05T12:26:48+00:00"
+            "time": "2020-03-17T16:05:49+00:00"
         },
         {
             "name": "kunstmaan/redirect-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanRedirectBundle.git",
-                "reference": "21f969c67b3eb257a2cfd0a96c685307c4529086"
+                "reference": "1e46759fa5f1f805b5aeb76e21e84e9f376fb223"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanRedirectBundle/zipball/21f969c67b3eb257a2cfd0a96c685307c4529086",
-                "reference": "21f969c67b3eb257a2cfd0a96c685307c4529086",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanRedirectBundle/zipball/1e46759fa5f1f805b5aeb76e21e84e9f376fb223",
+                "reference": "1e46759fa5f1f805b5aeb76e21e84e9f376fb223",
                 "shasum": ""
             },
             "require": {
@@ -3567,20 +3567,20 @@
                 "kunstmaan",
                 "redirect"
             ],
-            "time": "2020-02-28T14:12:48+00:00"
+            "time": "2020-03-17T17:06:31+00:00"
         },
         {
             "name": "kunstmaan/search-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanSearchBundle.git",
-                "reference": "1a6a69e503550b306c36b1cc2c6c19c895f0f816"
+                "reference": "1afb1a4f9b698a5d75b3e3b53c4ed2632769c3fe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanSearchBundle/zipball/1a6a69e503550b306c36b1cc2c6c19c895f0f816",
-                "reference": "1a6a69e503550b306c36b1cc2c6c19c895f0f816",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanSearchBundle/zipball/1afb1a4f9b698a5d75b3e3b53c4ed2632769c3fe",
+                "reference": "1afb1a4f9b698a5d75b3e3b53c4ed2632769c3fe",
                 "shasum": ""
             },
             "require": {
@@ -3631,20 +3631,20 @@
                 "kunstmaan",
                 "search"
             ],
-            "time": "2020-03-18T08:27:44+00:00"
+            "time": "2020-03-18T08:28:19+00:00"
         },
         {
             "name": "kunstmaan/seo-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanSeoBundle.git",
-                "reference": "4d36f6575eb41fba0c4288ac2df46f72f22511b7"
+                "reference": "3c595ed3243e409ea80910881b7627d43acda7d0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanSeoBundle/zipball/4d36f6575eb41fba0c4288ac2df46f72f22511b7",
-                "reference": "4d36f6575eb41fba0c4288ac2df46f72f22511b7",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanSeoBundle/zipball/3c595ed3243e409ea80910881b7627d43acda7d0",
+                "reference": "3c595ed3243e409ea80910881b7627d43acda7d0",
                 "shasum": ""
             },
             "require": {
@@ -3691,20 +3691,20 @@
                 "opengraph",
                 "seo"
             ],
-            "time": "2020-03-18T08:27:44+00:00"
+            "time": "2020-03-18T08:28:19+00:00"
         },
         {
             "name": "kunstmaan/sitemap-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanSitemapBundle.git",
-                "reference": "99d5048e2accd6df1b1dd960d8fc0e84fb8033bd"
+                "reference": "229604c5773e3fb5bb4ee746a6c1ff08db05e983"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanSitemapBundle/zipball/99d5048e2accd6df1b1dd960d8fc0e84fb8033bd",
-                "reference": "99d5048e2accd6df1b1dd960d8fc0e84fb8033bd",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanSitemapBundle/zipball/229604c5773e3fb5bb4ee746a6c1ff08db05e983",
+                "reference": "229604c5773e3fb5bb4ee746a6c1ff08db05e983",
                 "shasum": ""
             },
             "require": {
@@ -3749,20 +3749,20 @@
                 "cms",
                 "kunstmaan"
             ],
-            "time": "2020-01-23T15:22:22+00:00"
+            "time": "2020-03-17T16:05:49+00:00"
         },
         {
             "name": "kunstmaan/translator-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanTranslatorBundle.git",
-                "reference": "65742a9c14de9a933457ac8c0d6e6b2e5d383573"
+                "reference": "a8587310cfe5281675bc828e93b198ac3c74e9aa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanTranslatorBundle/zipball/65742a9c14de9a933457ac8c0d6e6b2e5d383573",
-                "reference": "65742a9c14de9a933457ac8c0d6e6b2e5d383573",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanTranslatorBundle/zipball/a8587310cfe5281675bc828e93b198ac3c74e9aa",
+                "reference": "a8587310cfe5281675bc828e93b198ac3c74e9aa",
                 "shasum": ""
             },
             "require": {
@@ -3807,20 +3807,20 @@
                 "translations",
                 "translator"
             ],
-            "time": "2020-01-13T18:40:01+00:00"
+            "time": "2020-03-17T16:05:49+00:00"
         },
         {
             "name": "kunstmaan/user-management-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanUserManagementBundle.git",
-                "reference": "1b9cc7e7ab4ff0155d9c49f69ace3e3453559673"
+                "reference": "e038f29e3f8fa55972ba55ef548026f28a180ed0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanUserManagementBundle/zipball/1b9cc7e7ab4ff0155d9c49f69ace3e3453559673",
-                "reference": "1b9cc7e7ab4ff0155d9c49f69ace3e3453559673",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanUserManagementBundle/zipball/e038f29e3f8fa55972ba55ef548026f28a180ed0",
+                "reference": "e038f29e3f8fa55972ba55ef548026f28a180ed0",
                 "shasum": ""
             },
             "require": {
@@ -3865,20 +3865,20 @@
                 "role",
                 "user"
             ],
-            "time": "2020-03-05T12:26:48+00:00"
+            "time": "2020-03-17T16:05:49+00:00"
         },
         {
             "name": "kunstmaan/utilities-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanUtilitiesBundle.git",
-                "reference": "7172bb5489754dae252705e1690068d158e85e26"
+                "reference": "c8bf3fe30a4b3b0f83901c7153f4881f2c6f564f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanUtilitiesBundle/zipball/7172bb5489754dae252705e1690068d158e85e26",
-                "reference": "7172bb5489754dae252705e1690068d158e85e26",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanUtilitiesBundle/zipball/c8bf3fe30a4b3b0f83901c7153f4881f2c6f564f",
+                "reference": "c8bf3fe30a4b3b0f83901c7153f4881f2c6f564f",
                 "shasum": ""
             },
             "require": {
@@ -3939,7 +3939,7 @@
                 "kunstmaan",
                 "utilities"
             ],
-            "time": "2020-03-05T12:26:48+00:00"
+            "time": "2020-03-17T17:06:31+00:00"
         },
         {
             "name": "liip/imagine-bundle",
@@ -5529,38 +5529,38 @@
         },
         {
             "name": "symfony-cmf/routing",
-            "version": "2.1.1",
+            "version": "2.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony-cmf/Routing.git",
-                "reference": "fbba5ec9626f7a5eaa1c8c1a26e8bfa79c32356f"
+                "reference": "12f3f64a0ab89ee0dc5ead8802167de762eac024"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony-cmf/Routing/zipball/fbba5ec9626f7a5eaa1c8c1a26e8bfa79c32356f",
-                "reference": "fbba5ec9626f7a5eaa1c8c1a26e8bfa79c32356f",
+                "url": "https://api.github.com/repos/symfony-cmf/Routing/zipball/12f3f64a0ab89ee0dc5ead8802167de762eac024",
+                "reference": "12f3f64a0ab89ee0dc5ead8802167de762eac024",
                 "shasum": ""
             },
             "require": {
                 "php": "^7.1",
                 "psr/log": "^1.0",
-                "symfony/http-kernel": "^2.8 || ^3.3 || ^4.0",
-                "symfony/routing": "^2.8 || ^3.3 || ^4.0"
+                "symfony/http-kernel": "^3.4 || ^4.3",
+                "symfony/routing": "^3.4 || ^4.3"
             },
             "require-dev": {
-                "symfony-cmf/testing": "^2.1.0",
-                "symfony/config": "^2.8 || ^3.3 || ^4.0",
-                "symfony/dependency-injection": "^2.8 || ^3.3 || ^4.0",
-                "symfony/event-dispatcher": "^2.8 || ^3.3 || ^4.0",
+                "symfony-cmf/testing": "^3@dev",
+                "symfony/config": "^3.4 || ^4.3",
+                "symfony/dependency-injection": "^3.4 || ^4.3",
+                "symfony/event-dispatcher": "^3.4 || ^4.3",
                 "symfony/phpunit-bridge": "^4.2.2"
             },
             "suggest": {
-                "symfony/event-dispatcher": "DynamicRouter can optionally trigger an event at the start of matching. Minimal version (~2.1)"
+                "symfony/event-dispatcher": "DynamicRouter can optionally trigger an event at the start of matching. Minimal version (^3.4 || ^4.3)"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.1-dev"
+                    "dev-master": "2.2-dev"
                 }
             },
             "autoload": {
@@ -5584,7 +5584,7 @@
                 "database",
                 "routing"
             ],
-            "time": "2019-12-10T10:41:58+00:00"
+            "time": "2019-12-10T10:45:30+00:00"
         },
         {
             "name": "symfony-cmf/routing-bundle",
@@ -9953,16 +9953,16 @@
         },
         {
             "name": "kunstmaan/behat-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanBehatBundle.git",
-                "reference": "292593c660457a3aa68c896e283f55caea510459"
+                "reference": "80c428e6450c9a413bd64fb48f5181069fe7dbd0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanBehatBundle/zipball/292593c660457a3aa68c896e283f55caea510459",
-                "reference": "292593c660457a3aa68c896e283f55caea510459",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanBehatBundle/zipball/80c428e6450c9a413bd64fb48f5181069fe7dbd0",
+                "reference": "80c428e6450c9a413bd64fb48f5181069fe7dbd0",
                 "shasum": ""
             },
             "require": {
@@ -10011,20 +10011,20 @@
                 "cms",
                 "kunstmaan"
             ],
-            "time": "2020-01-09T14:15:47+00:00"
+            "time": "2020-03-17T16:05:49+00:00"
         },
         {
             "name": "kunstmaan/fixtures-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanFixturesBundle.git",
-                "reference": "4d29360b3b8d8423924c689f5e6d52c02c82182a"
+                "reference": "673fb42dc5acf2d93a66ab70de8f7df55866ce84"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanFixturesBundle/zipball/4d29360b3b8d8423924c689f5e6d52c02c82182a",
-                "reference": "4d29360b3b8d8423924c689f5e6d52c02c82182a",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanFixturesBundle/zipball/673fb42dc5acf2d93a66ab70de8f7df55866ce84",
+                "reference": "673fb42dc5acf2d93a66ab70de8f7df55866ce84",
                 "shasum": ""
             },
             "require": {
@@ -10073,20 +10073,20 @@
                 "kunstmaan",
                 "yaml"
             ],
-            "time": "2019-12-12T15:32:23+00:00"
+            "time": "2020-03-17T16:05:49+00:00"
         },
         {
             "name": "kunstmaan/generator-bundle",
-            "version": "5.4.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanGeneratorBundle.git",
-                "reference": "72440f958ef9cc13a559cdcfbbf2acbc7c5816ff"
+                "reference": "f74bfa2bd16645229575085742ef9390fb831d7b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanGeneratorBundle/zipball/72440f958ef9cc13a559cdcfbbf2acbc7c5816ff",
-                "reference": "72440f958ef9cc13a559cdcfbbf2acbc7c5816ff",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanGeneratorBundle/zipball/f74bfa2bd16645229575085742ef9390fb831d7b",
+                "reference": "f74bfa2bd16645229575085742ef9390fb831d7b",
                 "shasum": ""
             },
             "require": {
@@ -10135,7 +10135,7 @@
                 "generator",
                 "kunstmaan"
             ],
-            "time": "2020-03-05T12:26:48+00:00"
+            "time": "2020-03-17T17:12:01+00:00"
         },
         {
             "name": "kunstmaan/sensio-generator-bundle",
