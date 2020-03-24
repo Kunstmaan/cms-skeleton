@@ -1212,16 +1212,16 @@
         },
         {
             "name": "doctrine/orm",
-            "version": "v2.7.1",
+            "version": "v2.7.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/orm.git",
-                "reference": "445796af0e873d9bd04f2502d322a7d5009b6846"
+                "reference": "dafe298ce5d0b995ebe1746670704c0a35868a6a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/orm/zipball/445796af0e873d9bd04f2502d322a7d5009b6846",
-                "reference": "445796af0e873d9bd04f2502d322a7d5009b6846",
+                "url": "https://api.github.com/repos/doctrine/orm/zipball/dafe298ce5d0b995ebe1746670704c0a35868a6a",
+                "reference": "dafe298ce5d0b995ebe1746670704c0a35868a6a",
                 "shasum": ""
             },
             "require": {
@@ -1292,20 +1292,20 @@
                 "database",
                 "orm"
             ],
-            "time": "2020-02-15T14:35:56+00:00"
+            "time": "2020-03-19T06:41:02+00:00"
         },
         {
             "name": "doctrine/persistence",
-            "version": "1.3.6",
+            "version": "1.3.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/persistence.git",
-                "reference": "5dd3ac5eebef2d0b074daa4440bb18f93132dee4"
+                "reference": "0af483f91bada1c9ded6c2cfd26ab7d5ab2094e0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/persistence/zipball/5dd3ac5eebef2d0b074daa4440bb18f93132dee4",
-                "reference": "5dd3ac5eebef2d0b074daa4440bb18f93132dee4",
+                "url": "https://api.github.com/repos/doctrine/persistence/zipball/0af483f91bada1c9ded6c2cfd26ab7d5ab2094e0",
+                "reference": "0af483f91bada1c9ded6c2cfd26ab7d5ab2094e0",
                 "shasum": ""
             },
             "require": {
@@ -1313,7 +1313,7 @@
                 "doctrine/cache": "^1.0",
                 "doctrine/collections": "^1.0",
                 "doctrine/event-manager": "^1.0",
-                "doctrine/reflection": "^1.1",
+                "doctrine/reflection": "^1.2",
                 "php": "^7.1"
             },
             "conflict": {
@@ -1375,20 +1375,20 @@
                 "orm",
                 "persistence"
             ],
-            "time": "2020-01-16T22:06:23+00:00"
+            "time": "2020-03-21T15:13:52+00:00"
         },
         {
             "name": "doctrine/reflection",
-            "version": "v1.1.0",
+            "version": "1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/reflection.git",
-                "reference": "bc420ead87fdfe08c03ecc3549db603a45b06d4c"
+                "reference": "b699ecc7f2784d1e49924fd9858cf1078db6b0e2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/reflection/zipball/bc420ead87fdfe08c03ecc3549db603a45b06d4c",
-                "reference": "bc420ead87fdfe08c03ecc3549db603a45b06d4c",
+                "url": "https://api.github.com/repos/doctrine/reflection/zipball/b699ecc7f2784d1e49924fd9858cf1078db6b0e2",
+                "reference": "b699ecc7f2784d1e49924fd9858cf1078db6b0e2",
                 "shasum": ""
             },
             "require": {
@@ -1409,7 +1409,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.0.x-dev"
+                    "dev-master": "1.2.x-dev"
                 }
             },
             "autoload": {
@@ -1453,7 +1453,7 @@
                 "reflection",
                 "static"
             ],
-            "time": "2020-01-08T19:53:19+00:00"
+            "time": "2020-03-21T11:34:59+00:00"
         },
         {
             "name": "egulias/email-validator",
@@ -2703,7 +2703,7 @@
         },
         {
             "name": "kunstmaan/admin-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanAdminBundle.git",
@@ -2805,7 +2805,7 @@
         },
         {
             "name": "kunstmaan/adminlist-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanAdminListBundle.git",
@@ -2864,7 +2864,7 @@
         },
         {
             "name": "kunstmaan/article-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanArticleBundle.git",
@@ -2957,7 +2957,7 @@
         },
         {
             "name": "kunstmaan/config-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanConfigBundle.git",
@@ -3013,7 +3013,7 @@
         },
         {
             "name": "kunstmaan/dashboard-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanDashboardBundle.git",
@@ -3071,7 +3071,7 @@
         },
         {
             "name": "kunstmaan/form-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanFormBundle.git",
@@ -3170,7 +3170,7 @@
         },
         {
             "name": "kunstmaan/media-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanMediaBundle.git",
@@ -3233,7 +3233,7 @@
         },
         {
             "name": "kunstmaan/media-pagepart-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanMediaPagePartBundle.git",
@@ -3284,7 +3284,7 @@
         },
         {
             "name": "kunstmaan/menu-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanMenuBundle.git",
@@ -3339,7 +3339,7 @@
         },
         {
             "name": "kunstmaan/node-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanNodeBundle.git",
@@ -3399,7 +3399,7 @@
         },
         {
             "name": "kunstmaan/node-search-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanNodeSearchBundle.git",
@@ -3457,7 +3457,7 @@
         },
         {
             "name": "kunstmaan/pagepart-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanPagePartBundle.git",
@@ -3514,7 +3514,7 @@
         },
         {
             "name": "kunstmaan/redirect-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanRedirectBundle.git",
@@ -3571,7 +3571,7 @@
         },
         {
             "name": "kunstmaan/search-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanSearchBundle.git",
@@ -3635,7 +3635,7 @@
         },
         {
             "name": "kunstmaan/seo-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanSeoBundle.git",
@@ -5069,16 +5069,16 @@
         },
         {
             "name": "psr/log",
-            "version": "1.1.2",
+            "version": "1.1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-fig/log.git",
-                "reference": "446d54b4cb6bf489fc9d75f55843658e6f25d801"
+                "reference": "0f73288fd15629204f9d42b7055f72dacbe811fc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/log/zipball/446d54b4cb6bf489fc9d75f55843658e6f25d801",
-                "reference": "446d54b4cb6bf489fc9d75f55843658e6f25d801",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/0f73288fd15629204f9d42b7055f72dacbe811fc",
+                "reference": "0f73288fd15629204f9d42b7055f72dacbe811fc",
                 "shasum": ""
             },
             "require": {
@@ -5112,7 +5112,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2019-11-01T11:05:21+00:00"
+            "time": "2020-03-23T09:12:05+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
@@ -9953,7 +9953,7 @@
         },
         {
             "name": "kunstmaan/behat-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanBehatBundle.git",
@@ -10015,7 +10015,7 @@
         },
         {
             "name": "kunstmaan/fixtures-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanFixturesBundle.git",
@@ -10077,16 +10077,16 @@
         },
         {
             "name": "kunstmaan/generator-bundle",
-            "version": "5.5.1",
+            "version": "5.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanGeneratorBundle.git",
-                "reference": "f74bfa2bd16645229575085742ef9390fb831d7b"
+                "reference": "f2e9ac25da93f06d40702d7b31585f9a2da29e06"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanGeneratorBundle/zipball/f74bfa2bd16645229575085742ef9390fb831d7b",
-                "reference": "f74bfa2bd16645229575085742ef9390fb831d7b",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanGeneratorBundle/zipball/f2e9ac25da93f06d40702d7b31585f9a2da29e06",
+                "reference": "f2e9ac25da93f06d40702d7b31585f9a2da29e06",
                 "shasum": ""
             },
             "require": {
@@ -10135,7 +10135,7 @@
                 "generator",
                 "kunstmaan"
             ],
-            "time": "2020-03-17T17:12:01+00:00"
+            "time": "2020-03-22T16:13:08+00:00"
         },
         {
             "name": "kunstmaan/sensio-generator-bundle",
