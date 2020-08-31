@@ -2659,7 +2659,7 @@
         },
         {
             "name": "kunstmaan/admin-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanAdminBundle.git",
@@ -2761,7 +2761,7 @@
         },
         {
             "name": "kunstmaan/adminlist-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanAdminListBundle.git",
@@ -2820,7 +2820,7 @@
         },
         {
             "name": "kunstmaan/article-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanArticleBundle.git",
@@ -2913,7 +2913,7 @@
         },
         {
             "name": "kunstmaan/config-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanConfigBundle.git",
@@ -2969,16 +2969,16 @@
         },
         {
             "name": "kunstmaan/dashboard-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanDashboardBundle.git",
-                "reference": "c1b795a24654f656179b3aee44c00537793776c2"
+                "reference": "6a95dacd9c90cddc59ac6d1b4fb4322b7811e518"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanDashboardBundle/zipball/c1b795a24654f656179b3aee44c00537793776c2",
-                "reference": "c1b795a24654f656179b3aee44c00537793776c2",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanDashboardBundle/zipball/6a95dacd9c90cddc59ac6d1b4fb4322b7811e518",
+                "reference": "6a95dacd9c90cddc59ac6d1b4fb4322b7811e518",
                 "shasum": ""
             },
             "require": {
@@ -3023,11 +3023,11 @@
                 "google analytics",
                 "kunstmaan"
             ],
-            "time": "2020-06-25T11:41:01+00:00"
+            "time": "2020-06-25T16:54:31+00:00"
         },
         {
             "name": "kunstmaan/form-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanFormBundle.git",
@@ -3126,16 +3126,16 @@
         },
         {
             "name": "kunstmaan/media-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanMediaBundle.git",
-                "reference": "428f8d63f1ee74c82d39a8938089925855e408f0"
+                "reference": "b887ca622a1ea3a8bcb470eee6e204b38701fdcd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanMediaBundle/zipball/428f8d63f1ee74c82d39a8938089925855e408f0",
-                "reference": "428f8d63f1ee74c82d39a8938089925855e408f0",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanMediaBundle/zipball/b887ca622a1ea3a8bcb470eee6e204b38701fdcd",
+                "reference": "b887ca622a1ea3a8bcb470eee6e204b38701fdcd",
                 "shasum": ""
             },
             "require": {
@@ -3185,11 +3185,11 @@
                 "kunstmaan",
                 "media"
             ],
-            "time": "2020-06-25T11:41:01+00:00"
+            "time": "2020-06-26T06:20:06+00:00"
         },
         {
             "name": "kunstmaan/media-pagepart-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanMediaPagePartBundle.git",
@@ -3240,7 +3240,7 @@
         },
         {
             "name": "kunstmaan/menu-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanMenuBundle.git",
@@ -3295,16 +3295,16 @@
         },
         {
             "name": "kunstmaan/node-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanNodeBundle.git",
-                "reference": "7b6a06a39577cfb9af4303e10788ec386aae66e4"
+                "reference": "6240f4031f50b8a74fd92e14feaf9a9c7696c806"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanNodeBundle/zipball/7b6a06a39577cfb9af4303e10788ec386aae66e4",
-                "reference": "7b6a06a39577cfb9af4303e10788ec386aae66e4",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanNodeBundle/zipball/6240f4031f50b8a74fd92e14feaf9a9c7696c806",
+                "reference": "6240f4031f50b8a74fd92e14feaf9a9c7696c806",
                 "shasum": ""
             },
             "require": {
@@ -3351,11 +3351,11 @@
                 "kunstmaan",
                 "tree"
             ],
-            "time": "2020-06-25T11:41:01+00:00"
+            "time": "2020-06-26T12:53:00+00:00"
         },
         {
             "name": "kunstmaan/node-search-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanNodeSearchBundle.git",
@@ -3413,7 +3413,7 @@
         },
         {
             "name": "kunstmaan/pagepart-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanPagePartBundle.git",
@@ -3470,7 +3470,7 @@
         },
         {
             "name": "kunstmaan/redirect-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanRedirectBundle.git",
@@ -3527,16 +3527,16 @@
         },
         {
             "name": "kunstmaan/search-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanSearchBundle.git",
-                "reference": "6cf7fa2344a1596a630adf4de179bc5cc1ad4694"
+                "reference": "fa2c2e71f1ed28b4a902df6c0799742588799b31"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanSearchBundle/zipball/6cf7fa2344a1596a630adf4de179bc5cc1ad4694",
-                "reference": "6cf7fa2344a1596a630adf4de179bc5cc1ad4694",
+                "url": "https://api.github.com/repos/Kunstmaan/KunstmaanSearchBundle/zipball/fa2c2e71f1ed28b4a902df6c0799742588799b31",
+                "reference": "fa2c2e71f1ed28b4a902df6c0799742588799b31",
                 "shasum": ""
             },
             "require": {
@@ -3587,11 +3587,11 @@
                 "kunstmaan",
                 "search"
             ],
-            "time": "2020-06-25T12:26:13+00:00"
+            "time": "2020-06-26T06:20:06+00:00"
         },
         {
             "name": "kunstmaan/seo-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanSeoBundle.git",
@@ -3651,7 +3651,7 @@
         },
         {
             "name": "kunstmaan/sitemap-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanSitemapBundle.git",
@@ -3709,7 +3709,7 @@
         },
         {
             "name": "kunstmaan/translator-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanTranslatorBundle.git",
@@ -3767,7 +3767,7 @@
         },
         {
             "name": "kunstmaan/user-management-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanUserManagementBundle.git",
@@ -3825,7 +3825,7 @@
         },
         {
             "name": "kunstmaan/utilities-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanUtilitiesBundle.git",
@@ -10143,7 +10143,7 @@
         },
         {
             "name": "kunstmaan/behat-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanBehatBundle.git",
@@ -10205,7 +10205,7 @@
         },
         {
             "name": "kunstmaan/fixtures-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanFixturesBundle.git",
@@ -10267,7 +10267,7 @@
         },
         {
             "name": "kunstmaan/generator-bundle",
-            "version": "5.6.1",
+            "version": "5.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kunstmaan/KunstmaanGeneratorBundle.git",
@@ -10906,5 +10906,6 @@
         "ext-ctype": "*",
         "ext-iconv": "*"
     },
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
 }
