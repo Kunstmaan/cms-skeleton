@@ -19,6 +19,9 @@
         "php": "^7.2.5",
         "ext-ctype": "*",
         "ext-iconv": "*",
+        "symfony/flex": "^1.10"
+    },
+    "flex-require": {
         "doctrine/doctrine-migrations-bundle": "^1.3",
         "egulias/email-validator": "^1.2.8|^2.0",
         "friendsofsymfony/http-cache-bundle": "^2.6",
@@ -49,7 +52,6 @@
         "symfony/console": "^4.4",
         "symfony/dotenv": "^4.4",
         "symfony/expression-language": "^4.4",
-        "symfony/flex": "^1.6",
         "symfony/form": "^4.4",
         "symfony/framework-bundle": "^4.4",
         "symfony/monolog-bundle": "^3.1",
@@ -65,6 +67,8 @@
         "symfony/yaml": "^4.4"
     },
     "require-dev": {
+    },
+    "flex-require-dev": {
         "kunstmaan/generator-bundle": "5.8.*",
         "kunstmaan/fixtures-bundle": "5.8.*",
         "symfony/debug-pack": "*",
@@ -97,6 +101,7 @@
         "paragonie/random_compat": "2.*",
         "symfony/polyfill-ctype": "*",
         "symfony/polyfill-iconv": "*",
+        "symfony/polyfill-php72": "*",
         "symfony/polyfill-php71": "*",
         "symfony/polyfill-php70": "*",
         "symfony/polyfill-php56": "*"
