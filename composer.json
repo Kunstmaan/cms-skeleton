@@ -85,6 +85,10 @@
         "wearejust/grumphp-extra-tasks": "Automate your quality with PHP CS auto fixer"
     },
     "config": {
+        "allow-plugins": {
+            "symfony/flex": true,
+            "symfony/runtime": true
+        },
         "preferred-install": {
             "*": "dist"
         },
