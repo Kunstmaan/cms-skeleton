@@ -47,7 +47,7 @@
         "kunstmaan/utilities-bundle": "6.1.*",
         "nyholm/psr7": "^1.1",
         "php-http/guzzle6-adapter": "^2.0",
-        "sensio/framework-extra-bundle": "^5.1",
+        "sensio/framework-extra-bundle": "^6.2",
         "sentry/sentry-symfony": "^4.2",
         "symfony/apache-pack": "*",
         "symfony/asset": "^5.3",
