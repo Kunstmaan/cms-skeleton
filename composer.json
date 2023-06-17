@@ -24,7 +24,7 @@
     "flex-require": {
         "doctrine/doctrine-migrations-bundle": "^3.2",
         "doctrine/doctrine-bundle": "^2.4",
-        "egulias/email-validator": "^1.2.8|^2.0",
+        "egulias/email-validator": "^3.2|^4.0",
         "friendsofsymfony/http-cache-bundle": "^2.6",
         "kunstmaan/admin-bundle": "6.x-dev",
         "kunstmaan/adminlist-bundle": "6.x-dev",
