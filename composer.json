@@ -65,7 +65,7 @@
         "symfony/twig-bundle": "^6.4",
         "symfony/validator": "^6.4",
         "symfony/web-link": "^6.4",
-        "symfony/webpack-encore-bundle": "^1.15",
+        "symfony/webpack-encore-bundle": "^2.1",
         "symfony/yaml": "^6.4"
     },
     "require-dev": {
